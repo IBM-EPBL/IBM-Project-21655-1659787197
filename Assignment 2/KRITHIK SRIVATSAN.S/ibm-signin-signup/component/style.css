@@ -1,0 +1,32 @@
+.signin_1{
+    
+    margin-left: 400px;
+}
+.signin_2{
+    margin-left: 600px;
+}
+.form-control{
+    width: 500px!important;
+}
+.down{
+    margin-bottom: 100px;
+}
+.home_text{
+    margin-left: 20px;
+    width: 400px;
+}
+.home_image{
+    background-image: url("./images/1_o0L2Df6Cr6DEJ0uI-f4z6Q.png");
+}
+.home_ti{
+    display: flex;
+}
+.about_image{
+  
+    background-image: url("./images/customer-experience.jpg");
+    height: 400px;
+    width: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+}   

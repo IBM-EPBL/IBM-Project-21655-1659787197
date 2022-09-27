@@ -1,0 +1,28 @@
+
+.about_content{
+    width: 800px;
+
+}
+.about_image{
+  
+        background-image: url("./images/1_o0L2Df6Cr6DEJ0uI-f4z6Q.png");
+        height: 400px;
+        width: 800px;
+        background-repeat: no-repeat;
+     
+}
+.about_flex{
+    display: flex;
+    margin-left: 300px;
+   
+}
+.dropdown-menu{
+    position:relative;
+  z-index:30;
+}
+.down{
+    margin-bottom: 100px;
+}
+.ai{
+    text-decoration: none;
+}
