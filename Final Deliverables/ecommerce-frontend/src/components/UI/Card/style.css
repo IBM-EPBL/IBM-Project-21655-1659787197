@@ -1,0 +1,12 @@
+.card {
+  width: 100%;
+  background: white;
+  border: 1px solid white;
+  box-shadow: 0 0 2px 2px white;
+}
+.cardHeader {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 20px;
+  border-bottom: 1px solid #cececc;
+}

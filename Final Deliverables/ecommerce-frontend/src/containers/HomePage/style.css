@@ -1,0 +1,15 @@
+
+.carousel *{
+    color: white;
+}
+.Layout{
+    position: fixed;
+}
+.homepage{
+ background-image: url('../../images/recommendation-engines-for-fashion-6-current-applications-6.jpeg');
+ height: 1000px;
+
+ background-position: fixed;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
